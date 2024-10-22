@@ -1,0 +1,5 @@
+SAM 500
+MOH 500
+sam 500
+haj 800
+moh 1000
